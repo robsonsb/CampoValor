@@ -267,9 +267,15 @@ button {
     width: 100%;
     float: left;
     position: relative;
-    background-image: url(../images/TELA\ login.png);
-    height: 660px;
-    background-size: 100%;
+    background-image: url('../images/TELA login.png'); /* Verifique se o caminho está correto */
+    background-size: 100%;  /* Ajusta o tamanho da imagem para cobrir toda a área */
+    height: 660px; /* Garante que a altura seja fixada */
+    background-repeat: no-repeat; /* Impede a repetição da imagem */
+}
+
+/* Se ainda houver problemas, tente aplicar um fundo de fallback, caso a imagem não carregue */
+.banner_bg {
+    background-color: #f0f0f0; /* Fundo de fallback caso a imagem não seja carregada */
 }
 .banner_1 {
     width: 100%;
