@@ -131,6 +131,7 @@ ol {
 }
 
 p {
+    text-align: justify;
      margin: 20px;
      font-weight: 300;
      font-size: 15px;
@@ -267,10 +268,91 @@ button {
     width: 100%;
     float: left;
     position: relative;
-    background-image: url(../images/banner-bg.png);
+    background-image: url(../images/TELA\ login.png);
     height: 660px;
     background-size: 100%;
 }
+.banner_1 {
+    width: 100%;
+    float: left;
+    position: relative;
+    background-image: url(../images/Tela\ cadastro.png);
+    height: 660px;
+    background-size: 100%;
+}
+.banner_3 {
+     width: 100%;
+     float: left;
+     position: relative;
+     background-image: url(../images/Tela\ Inicial.png);
+     height: 660px;
+     background-size: 100%;
+ }
+ .banner_4 {
+     width: 100%;
+     float: left;
+     position: relative;
+     background-image: url(../images/Tela\ Finanças.png);
+     height: 660px;
+     background-size: 100%;
+ }
+ .banner_5 {
+     width: 100%;
+     float: left;
+     position: relative;
+     background-image: url(../images/Tela\ Satelite.png);
+     height: 660px;
+     background-size: 100%;
+ }
+ .banner_6 {
+     width: 100%;
+     float: left;
+     position: relative;
+     background-image: url(../images/Tela\ estoque.png);
+     height: 660px;
+     background-size: 100%;
+ }
+ .banner_2 {
+     width: 100%;
+     float: left;
+     position: relative;
+     background-image: url(../images/Recuperar\ senha.png);
+     height: 660px;
+     background-size: 100%;
+ }
+ .banner_7 {
+     width: 100%;
+     float: left;
+     position: relative;
+     background-image: url(../images/Tela\ EDF.png);
+     height: 660px;
+     background-size: 100%;
+ }
+ .banner_8 {
+     width: 100%;
+     float: left;
+     position: relative;
+     background-image: url(../images/Tela\ Transação.png);
+     height: 660px;
+     background-size: 100%;
+ }
+ .banner_9 {
+     width: 100%;
+     float: left;
+     position: relative;
+     background-image: url(../images/Tela\ Clima.png);
+     height: 660px;
+     background-size: 100%;
+ }
+ .banner_10 {
+     width: 100%;
+     float: left;
+     position: relative;
+     background-image: url(../images/Tela\ IA.png);
+     height: 660px;
+     background-size: 100%;
+ }
+ 
 .banner_img {
     width: 111%;
     float: left;
@@ -341,15 +423,15 @@ button {
 }
 #main_slider a.carousel-control-next {
     position: absolute;
-    left: 87%;
-    top: 88%;
+    left: 94%;
+    top: 73%; 
     background-color: #0cd268;
     color: #ffffff;
 }
 #main_slider a.carousel-control-prev {
-    position: absolute;
-    left: 87%;
-    top: 77%;
+     position: absolute; 
+    left: 3%;
+    top: 73%; 
     background-color: #000;
     color: #ffffff;
 }
@@ -625,6 +707,7 @@ button {
      padding-left: 20px;
 }
 .form-group {
+    text-align: justify;
     margin-bottom: 27px;
 }
 .carousel-indicators li {
