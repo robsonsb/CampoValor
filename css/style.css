@@ -275,7 +275,7 @@ button {
     width: 100%;
     float: left;
     position: relative;
-    background-image: url(../images/Tela\ cadastro.png);
+    background-image: url(../images/Tela\ login.png);
     height: 660px;
     background-size: 100%;
 }
@@ -283,7 +283,7 @@ button {
      width: 100%;
      float: left;
      position: relative;
-     background-image: url(../images/Tela\ Inicial.png);
+     background-image: url(../images/Tela\ cadastro.png);
      height: 660px;
      background-size: 100%;
  }
@@ -291,7 +291,7 @@ button {
      width: 100%;
      float: left;
      position: relative;
-     background-image: url(../images/Tela\ Finanças.png);
+     background-image: url(../images/Tela\ Inicial.png);
      height: 660px;
      background-size: 100%;
  }
@@ -299,7 +299,7 @@ button {
      width: 100%;
      float: left;
      position: relative;
-     background-image: url(../images/Tela\ Satelite.png);
+     background-image: url(../images/Tela\ Finanças.png);
      height: 660px;
      background-size: 100%;
  }
@@ -307,7 +307,7 @@ button {
      width: 100%;
      float: left;
      position: relative;
-     background-image: url(../images/Tela\ estoque.png);
+     background-image: url(../images/Tela\ Satelite.png);
      height: 660px;
      background-size: 100%;
  }
@@ -323,7 +323,7 @@ button {
      width: 100%;
      float: left;
      position: relative;
-     background-image: url(../images/Tela\ EDF.png);
+     background-image: url(../images/Tela\ estoque.png);
      height: 660px;
      background-size: 100%;
  }
@@ -331,7 +331,7 @@ button {
      width: 100%;
      float: left;
      position: relative;
-     background-image: url(../images/Tela\ Transação.png);
+     background-image: url(../images/Tela\ EDF.png);
      height: 660px;
      background-size: 100%;
  }
@@ -339,11 +339,19 @@ button {
      width: 100%;
      float: left;
      position: relative;
-     background-image: url(../images/Tela\ Clima.png);
+     background-image: url(../images/Tela\ Transação.png);
      height: 660px;
      background-size: 100%;
  }
  .banner_10 {
+     width: 100%;
+     float: left;
+     position: relative;
+     background-image: url(../images/Tela\ Clima.png);
+     height: 660px;
+     background-size: 100%;
+ }
+  .banner_11 {
      width: 100%;
      float: left;
      position: relative;
