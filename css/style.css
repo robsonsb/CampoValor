@@ -131,7 +131,6 @@ ol {
 }
 
 p {
-    text-align: justify;
      margin: 20px;
      font-weight: 300;
      font-size: 15px;
@@ -707,7 +706,6 @@ button {
      padding-left: 20px;
 }
 .form-group {
-    text-align: justify;
     margin-bottom: 27px;
 }
 .carousel-indicators li {
