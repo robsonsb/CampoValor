@@ -878,7 +878,7 @@ button {
 
   .mobile_header { display: none !important; }
   .destop_header { display: block; }
-
+  .carousel-item { display: block; width: 100%; }
 } 
 
 
