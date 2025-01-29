@@ -875,18 +875,15 @@ button {
 }
 
 @media (min-width: 768px) {
-
   .mobile_header { display: none !important; }
   .destop_header { display: block; }
   .carousel-item { display: block; width: 100%; }
-} 
-
+}
 
 @media (max-width: 767px) {
-
-  .destop_header{ display: none; }
+  .destop_header { display: none; }
   .mobile_header { display: block; }
-
+  .carousel-item img { width: 100%; height: auto; }
 }
 .mobile_header{ display: none; }
 
