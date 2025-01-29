@@ -268,15 +268,24 @@ button {
     width: 100%;
     float: left;
     position: relative;
-    background-image: url('../images/Tela Login.png');
+    background-image: url(../images/Tela\ Login.png);
     height: 660px;
     background-size: 100%;
+ }
+ .banner_2 {
+    width: 100%;
+    float: left;
+    position: relative;
+    background-image: url(../images/Tela\ cadastro.png);
+    height: 660px;
+    background-size: 100%;
+ 
 }
 .banner_3 {
      width: 100%;
      float: left;
      position: relative;
-     background-image: url(../images/Tela\ cadastro.png);
+     background-image: url(../images/Recuperar\ senha.png);
      height: 660px;
      background-size: 100%;
  }
@@ -301,14 +310,6 @@ button {
      float: left;
      position: relative;
      background-image: url(../images/Tela\ Satelite.png);
-     height: 660px;
-     background-size: 100%;
- }
- .banner_2 {
-     width: 100%;
-     float: left;
-     position: relative;
-     background-image: url(../images/Recuperar\ senha.png);
      height: 660px;
      background-size: 100%;
  }
