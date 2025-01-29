@@ -263,14 +263,7 @@ button {
     float: right;
     padding-right: 50px;
 }
-.banner_bg {
-    width: 100%;
-    float: left;
-    position: relative;
-    background-image: url(../images/TELA\ login.png);
-    height: 660px;
-    background-size: 100%;
-}
+
 .banner_1 {
     width: 100%;
     float: left;
@@ -431,14 +424,14 @@ button {
 #main_slider a.carousel-control-next {
     position: absolute;
     left: 94%;
-    top: 73%; 
+    top: 50%; 
     background-color: #0cd268;
     color: #ffffff;
 }
 #main_slider a.carousel-control-prev {
      position: absolute; 
     left: 3%;
-    top: 73%; 
+    top: 50%; 
     background-color: #000;
     color: #ffffff;
 }
